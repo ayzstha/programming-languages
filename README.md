@@ -1,2 +1,2 @@
-# C-problems
-Contains activities and exercises using C Programming Language
+# programming-languages
+Contains activities and exercises in different programming languages.
